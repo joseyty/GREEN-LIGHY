@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(8, 8, 8);
+}
+
+
+h1{
+    color: aliceblue;
+    font-size: 350%;
+}
+
+
+h2{
+    color: aliceblue;
+    font-size: 200%;
+}
+
+h3{
+    color: aliceblue;
+    font-size: 150%;
+}
+
+.container{
+   background-color: yellowgreen;
+}
+
+.card{
+    color: yellow;
+}
